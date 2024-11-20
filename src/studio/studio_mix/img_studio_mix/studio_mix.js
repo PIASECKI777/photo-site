@@ -1,0 +1,18 @@
+export const studio_mixImages = [
+    {url: require("./1_main_studio_mix.jpg")},
+    {url: require("./img11-1.jpg")},
+    {url: require("./img11-2.jpg")},
+    {url: require("./img11-3.jpg")},
+    {url: require("./img11-4.jpg")},
+    {url: require("./img11-5.jpg")},
+    {url: require("./img11-6.jpg")},
+    {url: require("./img11-7.jpg")},
+    {url: require("./img11-8.jpg")},
+    {url: require("./img11-9.jpg")},
+    {url: require("./img11-10.jpg")},
+    {url: require("./img11-11.jpg")},
+    {url: require("./img11-12.jpg")},
+    {url: require("./img11-13.jpg")},
+    {url: require("./img11-14.jpg")},
+    {url: require("./img11-15.jpg")},
+]
